@@ -126,7 +126,7 @@ EB(2,5) = 16 ,EB(7,8) = 1.5
 
 Link of the above theory using networkx is available in the following [Link](./code.ipynb)
 
-As expected, DE has the highest edge betweens, thereby we remove teh edge DE, and forming two communities.
+As expected, N(2,5) has the highest edge betweens, thereby we remove teh edge N(2,5), and forming two communities.
 
 ### _3.2 Code based approach using networkx Library_
 

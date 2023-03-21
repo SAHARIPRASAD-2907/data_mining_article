@@ -4,7 +4,7 @@
 | ----------- | -------------------------------- |
 | ID          | 202205341                        |
 | Subject     | Data mining and Machine learning |
-| Github Link | Data mining and Machine learning |
+| Github Link | [Link](https://github.com/SAHARIPRASAD-2907/data_mining_article) |
 
 **Tutorial** : The working procedure of a community detection algorithm.
 
